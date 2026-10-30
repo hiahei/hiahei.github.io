@@ -31,3 +31,7 @@ python -m http.server 8000
 
 页面里的简介、项目链接、头像和邮箱都可以直接在 `index.html` 中修改。
 
+
+## 添加猫猫照片
+
+把照片放进 cats/ 目录，并命名为 cat-1.jpg、cat-2.jpg、cat-3.jpg，推送后会自动显示在猫猫区块。
