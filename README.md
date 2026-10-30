@@ -22,11 +22,12 @@ python -m http.server 8000
    git add .
    git commit -m "build personal homepage"
    git branch -M main
-   git remote add origin https://github.com/hiahei/qiruoling760.github.io.git
+   git remote add origin https://github.com/hiahei/hiahei.github.io.git
    git push -u origin main
    ```
 
 3. 打开仓库的 **Settings → Pages**，选择 `Deploy from a branch`、`main` 和 `/ (root)`，保存。
-4. 等待 GitHub Actions 完成后访问 <https://qiruoling760.github.io>。
+4. 等待 GitHub Actions 完成后访问 <https://hiahei.github.io>。
 
 页面里的简介、项目链接、头像和邮箱都可以直接在 `index.html` 中修改。
+
